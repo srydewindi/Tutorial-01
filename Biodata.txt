@@ -1,2 +1,3 @@
-NPM : 1706107030
-Nama : Sry Dewindi Tampubolon
+NPM 	: 1706107030
+Nama 	: Sry Dewindi Tampubolon
+Jurusan	: Sistem Informasi
